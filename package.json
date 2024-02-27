@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.0.1",
+    "typescript": "^5.3.3",
+    "vue": "^3.4.20",
+    "vue-loader": "^17.4.2",
+    "vue-template-compiler": "^2.7.16"
+  }
 }
